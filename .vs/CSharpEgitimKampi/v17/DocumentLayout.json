@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\Desktop\\SocialApp\\CSharpEgitimKampi\\",
+  "WorkspaceRootPath": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD4736F9-FD8D-4639-8268-9D9C4AD883E0}|02_Variables\\02_Variables.csproj|c:\\users\\t.\u00E7akiro\u011Flu\\desktop\\socialapp\\csharpegitimkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD4736F9-FD8D-4639-8268-9D9C4AD883E0}|02_Variables\\02_Variables.csproj|c:\\users\\t.\u00E7akiro\u011Flu\\source\\repos\\csharpegitimkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4736F9-FD8D-4639-8268-9D9C4AD883E0}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\Desktop\\SocialApp\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\02_Variables\\Program.cs",
               "RelativeDocumentMoniker": "02_Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\Desktop\\SocialApp\\CSharpEgitimKampi\\02_Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\02_Variables\\Program.cs",
               "RelativeToolTip": "02_Variables\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
