@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\06_Arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_Arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1313A62-EDEA-4207-95AC-ECA7CF19D4D1}|07_ForeachLoop\\07_ForeachLoop.csproj|c:\\users\\t.\u00E7akiro\u011Flu\\source\\repos\\csharpegitimkampi\\csharpegitimkampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1313A62-EDEA-4207-95AC-ECA7CF19D4D1}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
-              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
-              "ToolTip": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
-              "RelativeToolTip": "06_Arrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\T.\u00C7AKIRO\u011ELU\\source\\repos\\CSharpEgitimKampi\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAH8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:10:21.842Z",
+              "WhenOpened": "2024-10-15T18:21:12.527Z",
               "EditorCaption": ""
             }
           ]
