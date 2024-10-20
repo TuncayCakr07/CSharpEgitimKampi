@@ -1,0 +1,14 @@
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
