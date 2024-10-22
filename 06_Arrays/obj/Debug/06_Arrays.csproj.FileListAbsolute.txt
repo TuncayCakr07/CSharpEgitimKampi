@@ -12,3 +12,10 @@ C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEg
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\06_Arrays\obj\Debug\_06_Arrays.exe
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\06_Arrays\obj\Debug\_06_Arrays.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\_06_Arrays.exe.config
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\_06_Arrays.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\bin\Debug\_06_Arrays.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\_06_Arrays.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\06_Arrays\obj\Debug\_06_Arrays.pdb
