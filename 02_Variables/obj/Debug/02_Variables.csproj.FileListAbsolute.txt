@@ -1,10 +1,3 @@
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
-C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
@@ -19,3 +12,10 @@ C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEg
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
 C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+C:\Users\T.ÇAKIROĞLU\source\repos\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
