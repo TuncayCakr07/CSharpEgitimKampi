@@ -26,4 +26,10 @@ Bu projede, foreach döngüsünün detaylı kullanımıyla bir sınav yönetim s
 🏅 Proje 8: Geriye Değer Döndüren Fonksiyonlar
 Son projede, kullanıcıdan alınan verileri işleyip sonuç üreten fonksiyonlar geliştirdim. Geriye değer döndüren metotlar ile daha karmaşık işlem süreçlerini ele alarak fonksiyonel programlama becerilerimi geliştirdim.
 
+🏢 Proje 9: Veri Tabanlı Ürün-Kategori Bilgi Sistemi
+Bu projede, ADO.NET kullanarak bir veritabanına bağlanıp verileri nasıl sorgulayacağımı ve ekrana getireceğimi öğrendim. SqlConnection, SqlCommand, ve SqlDataAdapter gibi sınıflarla çalışarak veritabanından veri çekmeyi ve DataTable aracılığıyla bu verileri işlemeyi deneyimledim. Farklı tabloların (Kategoriler, Ürünler, Siparişler) bilgilerini ekrana getirme seçeneği sunarak kullanıcıya etkileşimli bir deneyim sağladım.
+
+🛠️ Proje 10: CRUD İşlemleri ile Menü Sipariş Paneli
+Bu proje, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir uygulama geliştirmeyi amaçlıyordu. SqlCommand ve SqlConnection gibi sınıfları kullanarak, kategori ekleme, ürün listeleme, ürün güncelleme ve ürün silme işlemlerini gerçekleştirdim. Projede ayrıca, kullanıcıdan alınan verilerin veritabanına nasıl kaydedileceği ve güncellemeler yapılacağı konusunda tecrübe kazandım.
+
 Bu projeler, C# programlama dilinin temellerini pekiştirmemi ve daha ileri seviye konulara hazırlanırken sağlam bir altyapı oluşturmamı sağladı. İlerleyen çalışmalarımda bu kazanımları daha karmaşık yazılım geliştirme görevlerinde kullanmaya devam edeceğim. görevlerinde kullanmaya devam edeceğim.
