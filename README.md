@@ -32,4 +32,18 @@ Bu projede, ADO.NET kullanarak bir veritabanına bağlanıp verileri nasıl sorg
 🛠️ Proje 10: CRUD İşlemleri ile Menü Sipariş Paneli
 Bu proje, temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir uygulama geliştirmeyi amaçlıyordu. SqlCommand ve SqlConnection gibi sınıfları kullanarak, kategori ekleme, ürün listeleme, ürün güncelleme ve ürün silme işlemlerini gerçekleştirdim. Projede ayrıca, kullanıcıdan alınan verilerin veritabanına nasıl kaydedileceği ve güncellemeler yapılacağı konusunda tecrübe kazandım.
 
+🏢 Proje 11: Katmanlı Mimari ile İş Uygulaması (Modül 301 – Ders1 Sonu)
+
+Bu projede, C# ile yazılım geliştirme süreçlerinde kullanılan Katmanlı Mimari yapısını uyguladım. Projede BusinessLayer, DataAccessLayer, EntityLayer ve PresentationLayer olmak üzere dört ana katman bulunmaktadır. Bu yapı sayesinde, uygulama kodunu mantıksal katmanlara ayırarak daha okunabilir, bakımı kolay ve genişletilebilir bir yapı elde etmeyi amaçladım.
+
+BusinessLayer: İş kurallarını ve uygulama mantığını yönetir; uygulamanın çekirdek mantığı bu katmanda yer alır.
+
+DataAccessLayer: Veritabanı işlemlerini yönetir; veritabanına erişim ve veri işlemleri burada gerçekleştirilir.
+
+EntityLayer: Uygulamanın veri modellerini tanımlar; her katmanda ihtiyaç duyulabilecek veri yapıları burada bulunur.
+
+PresentationLayer: Kullanıcı arayüzünü oluşturur; uygulamanın görsel kısmı ve kullanıcı etkileşim bileşenleri bu katmandadır.
+
+Katmanlı mimari ile daha modüler bir yapı oluşturarak, büyük ölçekli projelerde iş ve veri işlemlerinin ayrılmasını sağladım. Bu projede edinilen deneyimler, yazılım mimarisi konusundaki bilgi birikimimi genişletti ve projeyi daha yönetilebilir bir hale getirdi.
+
 Bu projeler, C# programlama dilinin temellerini pekiştirmemi ve daha ileri seviye konulara hazırlanırken sağlam bir altyapı oluşturmamı sağladı. İlerleyen çalışmalarımda bu kazanımları daha karmaşık yazılım geliştirme görevlerinde kullanmaya devam edeceğim. görevlerinde kullanmaya devam edeceğim.
