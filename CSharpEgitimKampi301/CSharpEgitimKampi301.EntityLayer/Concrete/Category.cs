@@ -6,24 +6,11 @@ using System.Threading.Tasks;
 
 namespace CSharpEgitimKampi301.EntityLayer.Concrete
 {
-    internal class Category
+    public class Category
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
         public bool CategoryStatus { get; set; }
+        public List<Product> Products { get; set; }
     }
 }
-
-
-/*
- Field-Variable-Property
-
- int x; ----> Field
-public x {get; set;} ----> Property
-
-void method()
-{
-  int x; ----> Variable
-}
-
- */
